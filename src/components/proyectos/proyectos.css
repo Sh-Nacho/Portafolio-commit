@@ -1,0 +1,7 @@
+.proyect-li {
+  list-style-type: none;
+  padding: 1rem;
+  width: 500px;
+  display: block;
+  text-align: justify;
+}

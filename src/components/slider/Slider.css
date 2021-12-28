@@ -1,0 +1,35 @@
+.slider-desc {
+  display: block;
+  background-color: #fff(255, 255, 255);
+  color: #000;
+  height: 70vh;
+  padding: 100px 0 100px 0;
+  text-align: center;
+}
+.slider-desc > h3 {
+  font-size: 3.5rem;
+  margin-bottom: 30px;
+}
+.slider-desc > p {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  padding: 0 1em 0 1em 0;
+}
+.row {
+  justify-content: space-around;
+  display: inline-flex;
+}
+.img-desc {
+  height: 175px;
+  width: 175px;
+  padding: 10px;
+  transition: all 0.75s ease;
+}
+.img-desc:hover {
+  height: 200px;
+  width: 200px;
+  transition: all 0.75s ease;
+}
+h6 {
+  font-size: 1rem;
+}
